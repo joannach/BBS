@@ -1,0 +1,73 @@
+c:\users\asia\documents\visual studio 2015\Projects\BBS\BBS\bin\Debug\BBS.exe.config
+c:\users\asia\documents\visual studio 2015\Projects\BBS\BBS\bin\Debug\BBS.exe
+c:\users\asia\documents\visual studio 2015\Projects\BBS\BBS\bin\Debug\BBS.pdb
+c:\users\asia\documents\visual studio 2015\Projects\BBS\BBS\obj\Debug\BBS.csprojResolveAssemblyReference.cache
+c:\users\asia\documents\visual studio 2015\Projects\BBS\BBS\obj\Debug\BBS.Form1.resources
+c:\users\asia\documents\visual studio 2015\Projects\BBS\BBS\obj\Debug\BBS.Properties.Resources.resources
+c:\users\asia\documents\visual studio 2015\Projects\BBS\BBS\obj\Debug\BBS.csproj.GenerateResource.Cache
+c:\users\asia\documents\visual studio 2015\Projects\BBS\BBS\obj\Debug\BBS.exe
+c:\users\asia\documents\visual studio 2015\Projects\BBS\BBS\obj\Debug\BBS.pdb
+G:\BBS\BBS\bin\Debug\BBS.exe.config
+G:\BBS\BBS\obj\Debug\BBS.exe
+G:\BBS\BBS\obj\Debug\BBS.pdb
+G:\BBS\BBS\bin\Debug\BBS.exe
+G:\BBS\BBS\bin\Debug\BBS.pdb
+G:\BBS\BBS\bin\Debug\mscorlib.dll
+G:\BBS\BBS\bin\Debug\pl\mscorlib.resources.dll
+G:\BBS\BBS\bin\Debug\normidna.nlp
+G:\BBS\BBS\bin\Debug\normnfc.nlp
+G:\BBS\BBS\bin\Debug\normnfd.nlp
+G:\BBS\BBS\bin\Debug\normnfkc.nlp
+G:\BBS\BBS\bin\Debug\normnfkd.nlp
+G:\BBS\BBS\obj\Debug\BBS.csprojResolveAssemblyReference.cache
+G:\BBS\BBS\obj\Debug\BBS.Form1.resources
+G:\BBS\BBS\obj\Debug\BBS.Properties.Resources.resources
+G:\BBS\BBS\obj\Debug\BBS.csproj.GenerateResource.Cache
+G:\Joanna_Chrominska_I32_BBS\BBS\bin\Debug\BBS.exe.config
+G:\Joanna_Chrominska_I32_BBS\BBS\obj\Debug\BBS.exe
+G:\Joanna_Chrominska_I32_BBS\BBS\obj\Debug\BBS.pdb
+G:\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe.config
+G:\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.exe
+G:\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.pdb
+G:\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe
+G:\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.pdb
+G:\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csprojResolveAssemblyReference.cache
+G:\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Form1.resources
+G:\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Properties.Resources.resources
+G:\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csproj.GenerateResource.Cache
+C:\Users\Asia\Desktop\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe.config
+C:\Users\Asia\Desktop\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.exe
+C:\Users\Asia\Desktop\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.pdb
+C:\Users\Asia\Desktop\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe
+C:\Users\Asia\Desktop\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.pdb
+C:\Users\Asia\Desktop\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Desktop\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Form1.resources
+C:\Users\Asia\Desktop\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Properties.Resources.resources
+C:\Users\Asia\Desktop\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csproj.GenerateResource.Cache
+C:\Users\Asia\OneDrive\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe.config
+C:\Users\Asia\OneDrive\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.exe
+C:\Users\Asia\OneDrive\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.pdb
+C:\Users\Asia\OneDrive\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe
+C:\Users\Asia\OneDrive\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.pdb
+C:\Users\Asia\OneDrive\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csprojResolveAssemblyReference.cache
+C:\Users\Asia\OneDrive\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Form1.resources
+C:\Users\Asia\OneDrive\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Properties.Resources.resources
+C:\Users\Asia\OneDrive\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csproj.GenerateResource.Cache
+C:\Users\Asia\OneDrive\Janicka\POD\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe.config
+C:\Users\Asia\OneDrive\Janicka\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.exe
+C:\Users\Asia\OneDrive\Janicka\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.pdb
+C:\Users\Asia\OneDrive\Janicka\POD\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe
+C:\Users\Asia\OneDrive\Janicka\POD\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.pdb
+C:\Users\Asia\OneDrive\Janicka\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csprojResolveAssemblyReference.cache
+C:\Users\Asia\OneDrive\Janicka\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Form1.resources
+C:\Users\Asia\OneDrive\Janicka\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Properties.Resources.resources
+C:\Users\Asia\OneDrive\Janicka\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csproj.GenerateResource.Cache
+I:\Polibuda\Semestr V\POD\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe.config
+I:\Polibuda\Semestr V\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.exe
+I:\Polibuda\Semestr V\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.pdb
+I:\Polibuda\Semestr V\POD\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.exe
+I:\Polibuda\Semestr V\POD\Joanna_Chrominska_I32_BBS_\BBS\bin\Debug\BBS.pdb
+I:\Polibuda\Semestr V\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csprojResolveAssemblyReference.cache
+I:\Polibuda\Semestr V\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Form1.resources
+I:\Polibuda\Semestr V\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.Properties.Resources.resources
+I:\Polibuda\Semestr V\POD\Joanna_Chrominska_I32_BBS_\BBS\obj\Debug\BBS.csproj.GenerateResource.Cache
